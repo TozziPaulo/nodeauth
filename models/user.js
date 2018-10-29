@@ -1,8 +1,8 @@
 var mongoose = require('mongoose');
 var bcrypt = require('bcryptjs');
 
-//mongoose.connect('mongodb://tozzi:123mudar@ds123981.mlab.com:23981/teste-jwt');
-mongodb://mobilefleet:mobilefleet@2018@ds143953.mlab.com:43953/mobilefleet
+mongoose.connect('mongodb://tozzi:123mudar@ds123981.mlab.com:23981/teste-jwt');
+//mongodb://mobilefleet:mobilefleet@2018@ds143953.mlab.com:43953/mobilefleet
 
 
 
